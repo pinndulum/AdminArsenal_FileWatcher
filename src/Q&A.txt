@@ -1,0 +1,10 @@
+Q: What is your favorite type of development task and why?
+A: Anything that provides a useful solution in an effective and efficient way.
+The file watcher coding exercise you requested is a fine example of an interesting project.
+
+Q: What part of an application do you prefer working on and why? (such as user interface, database, server components, etc.)
+A: I like to build utilities and user interfaces. I am also particularly fond of Powershell and SQL scripts to accomplish quick tasks.
+I feel the greatest satisfaction when an application is repeatedly used and appreciated.
+
+Q: If you could only eat one kind of food while programming, what would it be?
+A: Anything salty, but french fries are my true weakness.
