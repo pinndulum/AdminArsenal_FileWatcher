@@ -1,4 +1,4 @@
-# AdminArsenal FileWatcher
+# Admin Arsenal FileWatcher
 
 This project is the result of an excercise used to indicate how requirements are interpreted by developers. It only took an hour or so to complete.
 
