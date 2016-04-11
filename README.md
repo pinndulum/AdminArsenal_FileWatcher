@@ -24,3 +24,5 @@ Here are the requirements as they were provided.
   * If you could only eat one kind of food while programming, what would it be?
 
 To answer the last requirement, locate the file name Q&A.txt in the src directory.
+
+found another who completed the same excecise [here](https://github.com/mwingle/watcher)
