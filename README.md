@@ -1,6 +1,6 @@
 # Admin Arsenal FileWatcher
 
-This project is the result of an excercise used to indicate how requirements are interpreted by developers. It only took an hour or so to complete.
+This project is the result of an excercise used to indicate how requirements are interpreted by developers. It only took an hour or so to complete on July 20 2014.
 
 In this exercise I created a command-line program using C# to watch for text files created or modified in a given directory, and then output information about the changes.
 
